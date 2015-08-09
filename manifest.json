@@ -25,7 +25,7 @@
          "theme_toolbar": "images/theme_toolbar.png"
       },
       "properties": {
-         "ntp_background_alignment": "center center",
+         "ntp_background_alignment": "center bottom",
          "ntp_background_repeat": "no-repeat",
          "ntp_logo_alternate": 1
       },
