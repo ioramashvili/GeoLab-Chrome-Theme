@@ -1,7 +1,7 @@
 {
-   "description": "Theme for Georgia Southern University :-)",
+   "description": "From GeoLab with love",
    "manifest_version": 2,
-   "name": "Georgia Southern University Theme",
+   "name": "GeoLab Theme 1.0",
    "theme": {
       "colors": {
          "bookmark_text": [ 0, 0, 0 ],
@@ -25,7 +25,7 @@
          "theme_toolbar": "images/theme_toolbar.png"
       },
       "properties": {
-         "ntp_background_alignment": "center bottom",
+         "ntp_background_alignment": "center center",
          "ntp_background_repeat": "no-repeat",
          "ntp_logo_alternate": 1
       },
@@ -37,5 +37,5 @@
          "frame_incognito_inactive": [ 1, 1, 1 ]
       }
    },
-   "version": "1.0"
+   "version": "1.1"
 }
